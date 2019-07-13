@@ -17,9 +17,6 @@
     {
         #region Atributes
 
-
-        NumberFormatInfo symbolOrigin, symbolDestiny;
-
         /// <summary>
         /// Selected country
         /// </summary>
